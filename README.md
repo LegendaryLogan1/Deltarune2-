@@ -16,6 +16,9 @@ Its time for the special thanks!!
 
 Thank you to the maker of Deltarune Save States mod, which was used for assistance in developing this mod.
 You should check them out!
+
+"Its like the sequel to Deltarune, but its not a sequel" -Gooboo
+
 ---------------------------------------------------------------------
 Copyright stuff
 This project is simply just a fun thing I wanted to make, for no profit.
