@@ -7,10 +7,8 @@ INSTALLATION
 
 1: Download the latest release.
 2:Unzip it into a folder.
-3:Copy your existing DELTARUNE game files into another folder.
-4:Drag and drop the mod files into the folder containing DELTARUNE (Make sure to let it overwrite files!)
-You should now have Deltarune 2! (Patent pending)
-
+You now have Deltarune 2! (Patent pending)
+I trust you to only download this mod if you own Deltarune.
 ---------------------------------------------------------------------
 Its time for the special thanks!!
 
