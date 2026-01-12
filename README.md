@@ -10,3 +10,9 @@ INSTALLATION
 3:Copy your existing DELTARUNE game files into another folder.
 4:Drag and drop the mod files into the folder containing DELTARUNE (Make sure to let it overwrite files!)
 You should now have Deltarune 2! (Patent pending)
+
+---------------------------------------------------------------------
+Copyright stuff
+This project is simply just a fun thing I wanted to make, for no profit.
+I do not claim ownership of any of the music in this mod.
+If you have a problem with your content being included in the mod, feel free to reach out to me and I will remove it.
