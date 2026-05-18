@@ -6,9 +6,13 @@ This is my Deltarune mod! You can download it from here, and can tell me ideas i
 INSTALLATION
 
 1: Download the latest release.
+
 2:Unzip it into a folder.
+
 You now have Deltarune 2! (Patent pending)
+
 I trust you to only download this mod if you own Deltarune.
+
 ---------------------------------------------------------------------
 Its time for the special thanks!!
 
