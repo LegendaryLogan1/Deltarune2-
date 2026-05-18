@@ -16,8 +16,11 @@ Thank you to the maker of Deltarune Save States mod, which was used for assistan
 You should check them out!
 
 "Its like the sequel to Deltarune, but its not a sequel" -Gooboo
+
 "Holy shit it's Rory nite" -Anonymous player
+
 "I wholeheartedly embrace this as the true story of DELTARUNE." -Tricky Tony
+
 ---------------------------------------------------------------------
 Copyright stuff
 This project is simply just a fun thing I wanted to make, for no profit.
