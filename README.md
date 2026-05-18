@@ -25,6 +25,8 @@ You should check them out!
 
 "I wholeheartedly embrace this as the true story of DELTARUNE." -Tricky Tony
 
+"I had no idea Limbus Company drew from this" -Our god Kim J hoon
+
 ---------------------------------------------------------------------
 Copyright stuff
 This project is simply just a fun thing I wanted to make, for no profit.
