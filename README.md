@@ -23,7 +23,7 @@ You should check them out!
 
 "Holy shit it's Rory nite" -Anonymous player
 
-"I wholeheartedly embrace this as the true story of DELTARUNE." -Tricky Tony
+"I wholeheartedly embrace this as the true story of DELTARUNE, because it is and this guy stole my story GET THE FUCK OVER HERE." -Tricky Tony
 
 "I had no idea Limbus Company drew from this" -Our god Kim J hoon
 
